@@ -1,4 +1,4 @@
 {
-  "OPENAI_API_KEY": "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",
-  "PINECONE_API_KEY": "8e993fa3-b591-4709-b255-d74cb90b6341"
+  "OPENAI_API_KEY": "your openai api key here",
+  "PINECONE_API_KEY": "your pinecone api key here"
 }
