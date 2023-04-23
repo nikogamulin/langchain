@@ -1,3 +1,4 @@
 {
-  "OPENAI_API_KEY": "your_api_key_here"
+  "OPENAI_API_KEY": "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",
+  "PINECONE_API_KEY": "8e993fa3-b591-4709-b255-d74cb90b6341"
 }
