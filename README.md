@@ -40,7 +40,11 @@ source venv/bin/activate # On Windows, use venv\Scripts\activate
 
 pip install -r requirements.txt
 
-5. Launch Jupyter Notebook:
+5. Setup API keys:
+
+In settings.json, add values for your API keys.
+
+6. Launch Jupyter Notebook:
 
 jupyter notebook
 
@@ -52,6 +56,7 @@ jupyter notebook
 ## Code Structure & Organization
 - `notebooks/`: Contains the Jupyter Notebooks with example implementations of LangChain.
 - `requirements.txt`: Lists the required Python packages for running the example notebooks.
+- `settings.json`: API keys.
 
 ## Contributing
 Contributions are welcome! If you have an interesting LangChain example or improvement to share, please follow these steps:
